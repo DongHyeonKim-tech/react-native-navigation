@@ -1,5 +1,5 @@
 import React, { useLayoutEffect } from 'react';
-import styled from 'styled-components';
+import styled from 'styled-components/native';
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 
 const Container = styled.View`
